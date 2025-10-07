@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "source/ui",
+        "libs",
+        "source"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
+}

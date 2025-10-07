@@ -1,0 +1,42 @@
+[
+  {
+    "phoneNumber": "9656180569",
+    "callType": "Outgoing",
+    "timestamp": "05:32 pm, 06 Oct"
+  },
+  {
+    "phoneNumber": "9587412558",
+    "callType": "Outgoing",
+    "timestamp": "02:31 am, 06 Oct"
+  },
+  {
+    "phoneNumber": "9876543210",
+    "callType": "Outgoing",
+    "timestamp": "12:20 am, 06 Oct"
+  },
+  {
+    "phoneNumber": "9123522669",
+    "callType": "Outgoing",
+    "timestamp": "12:19 am, 06 Oct"
+  },
+  {
+    "phoneNumber": "9456822558",
+    "callType": "Outgoing",
+    "timestamp": "11:54 pm, 05 Oct"
+  },
+  {
+    "phoneNumber": "8523333255",
+    "callType": "Outgoing",
+    "timestamp": "11:53 pm, 05 Oct"
+  },
+  {
+    "phoneNumber": "9456624780",
+    "callType": "Outgoing",
+    "timestamp": "11:52 pm, 05 Oct"
+  },
+  {
+    "phoneNumber": "9456624780",
+    "callType": "Outgoing",
+    "timestamp": "11:51 pm, 05 Oct"
+  }
+]
